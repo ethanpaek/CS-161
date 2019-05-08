@@ -2,7 +2,7 @@
 #include <iostream>
 #include <cstring>
 
-//stanford.io/2qNRb0T <-- super helpful website btw (thanks Stanford nerds!)
+//stanford.io/2qNRb0T <-- super helpful website btw (S/O to Stanford)
 //bit.ly/2rinab8 <-- helpful for dijkstra's algorithm
 
 using namespace std;
